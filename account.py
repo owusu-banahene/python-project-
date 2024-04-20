@@ -8,4 +8,4 @@ class Account:
 
 if __name__ == '__main__':
     account = Account()
-    print(f'The password length is {account.check_password_length("offtoschool"}')
+    print(f'The password length is {account.check_password_length("offtoschool")}')
