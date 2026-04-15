@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class Account:
     def check_password_length(self, password:str):
         if len(password) >= 8:
